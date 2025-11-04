@@ -1,0 +1,4 @@
+# No external dependencies required for basic version
+# Optional: uncomment below for enhanced features
+# nltk>=3.8
+# pronouncing>=1.10
